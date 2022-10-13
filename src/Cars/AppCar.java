@@ -9,6 +9,5 @@ public class AppCar {
         lada.startCar();
         audi.setNameModel("BMW");
         audi.infoCar();
-        audi.setNameModel("Reno");
     }
 }
